@@ -18,7 +18,7 @@ Olá Mundo! Eu sou o Matheus 👋
   <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Math-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Math-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Math-Avatar" height="30" width="40" src="https://discord.com/channels/@me/654702927704752138/1082874389588095056">
+  <img align="right" alt="Math-Avatar" height="150" style="border-radius:50px" src="https://media.discordapp.net/attachments/654702927704752138/1082875828225986640">
 </div>
 
 ##
@@ -27,3 +27,5 @@ Olá Mundo! Eu sou o Matheus 👋
   <a href="www.linkedin.com/in/matheus-henrique-coutinho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:matheus.hcc2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  
